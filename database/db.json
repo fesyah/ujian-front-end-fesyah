@@ -1,0 +1,710 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "NIKE AIR ZOOM-TYPE",
+      "category": "Men, Sport, Sneaker",
+      "brand": "NIKE",
+      "rating": [],
+      "colour": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
+      "description": "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood...",
+      "price": 2500000,
+      "stock": [
+        {
+          "code": 38,
+          "total": 7
+        },
+        {
+          "code": 39,
+          "total": 8
+        },
+        {
+          "code": 40,
+          "total": 10
+        },
+        {
+          "code": 41,
+          "total": 10
+        },
+        {
+          "code": 42,
+          "total": 10
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-6.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "JORDAN WESTBROOK ONE TAKE",
+      "category": "Men, Sport, Sneaker",
+      "brand": "JORDAN",
+      "rating": [],
+      "colour": "WHITE/WHITE-BLACK-RAGE GREEN",
+      "description": "In the game of basketball Michael Jordan is a god. Number 23 of the Chicago Bulls has set the bar extremely high: His six championship rings, five mvp`s, numerous scoring titles, not to mention his ...",
+      "price": 1500000,
+      "stock": [
+        {
+          "code": 38,
+          "total": 5
+        },
+        {
+          "code": 39,
+          "total": 3
+        },
+        {
+          "code": 40,
+          "total": 15
+        },
+        {
+          "code": 41,
+          "total": 9
+        },
+        {
+          "code": 42,
+          "total": 7
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-6.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "NIKE KYRIE 6",
+      "category": "Men, Sport, Sneaker",
+      "brand": "NIKE",
+      "rating": [],
+      "colour": "WHITE/BLUE FURY-OPTI YELLOW-DIGITAL PINK",
+      "description": "The NIKE KYRIE 6 is the latest addition to the signature performance line of Kyrie Irving and Nike. If you think about Uncle Drew, immediately the explosive dribblings and his speed of direction changees of the impersonated ankle breaker comes into mind. To never lose traction in these situations, the model has a sole with a continuous Air Zoom unit, which gives the athlete the necessary grip in every moment of the game. The additional strap over the upper provides additional traction and ankle support. True to the motto: \"You reach, I teach!\"",
+      "price": 1780000,
+      "stock": [
+        {
+          "code": 38,
+          "total": 3
+        },
+        {
+          "code": 39,
+          "total": 10
+        },
+        {
+          "code": 40,
+          "total": 10
+        },
+        {
+          "code": 41,
+          "total": 5
+        },
+        {
+          "code": 42,
+          "total": 8
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-6.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "JORDAN AIR JORDAN 14 RETRO",
+      "category": "Men, Sport, Sneaker",
+      "brand": "JORDAN",
+      "rating": [],
+      "colour": "BLACK/GYM RED-WHITE-OFF WHITE",
+      "description": "In the game of basketball Michael Jordan is a god. Number 23 of the Chicago Bulls has set the bar extremely high: His six championship rings, five mvp`s, numerous scoring titles, not to mention his ...",
+      "price": 2680000,
+      "stock": [
+        {
+          "code": 38,
+          "total": 4
+        },
+        {
+          "code": 39,
+          "total": 6
+        },
+        {
+          "code": 40,
+          "total": 7
+        },
+        {
+          "code": 41,
+          "total": 2
+        },
+        {
+          "code": 42,
+          "total": 0
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-6.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "NIKE W NIKE REACT ELEMENT 55",
+      "category": "Women, Sport, Sneaker",
+      "brand": "NIKE",
+      "rating": [],
+      "colour": "WHITE/FIRE PINK-SAPPHIRE-BARELY VOLT",
+      "description": "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
+      "price": 2345000,
+      "stock": [
+        {
+          "code": 38,
+          "total": 5
+        },
+        {
+          "code": 39,
+          "total": 7
+        },
+        {
+          "code": 40,
+          "total": 7
+        },
+        {
+          "code": 41,
+          "total": 3
+        },
+        {
+          "code": 42,
+          "total": 1
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-6.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "NIKE W AIR MAX 90",
+      "category": "Women, Sport, Sneaker",
+      "brand": "NIKE",
+      "rating": [],
+      "colour": "WHITE/PARTICLE GREY-ROSE-BLACK",
+      "description": "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
+      "price": 1987300,
+      "stock": [
+        {
+          "code": 38,
+          "total": 2
+        },
+        {
+          "code": 39,
+          "total": 1
+        },
+        {
+          "code": 40,
+          "total": 0
+        },
+        {
+          "code": 41,
+          "total": 3
+        },
+        {
+          "code": 42,
+          "total": 2
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-6.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "VANS UA ERA (MIX & MATCH)",
+      "category": "Women, Converse",
+      "brand": "VANS",
+      "rating": [],
+      "colour": "cadmium yellow/tidepool",
+      "description": "In 1966 Jim van Doren, Gordy Lee and Serge D''Elia founded the Van Doren Rubber Company. In a shop next to the factory they sold the Hi-Top (also Sk8-Hi). It was the first sneaker which ...",
+      "price": 678956,
+      "stock": [
+        {
+          "code": 38,
+          "total": 7
+        },
+        {
+          "code": 39,
+          "total": 13
+        },
+        {
+          "code": 40,
+          "total": 16
+        },
+        {
+          "code": 41,
+          "total": 8
+        },
+        {
+          "code": 42,
+          "total": 0
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-6.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "VANS UA CLASSIC SLIP-ON (BREAST CANCER)",
+      "category": "Women, Converse",
+      "brand": "VANS",
+      "rating": [],
+      "colour": "cadmium yellow/tidepool",
+      "description": "In 1966 Jim van Doren, Gordy Lee and Serge D''Elia founded the Van Doren Rubber Company. In a shop next to the factory they sold the Hi-Top (also Sk8-Hi). It was the first sneaker which ...",
+      "price": 543786,
+      "stock": [
+        {
+          "code": 38,
+          "total": 5
+        },
+        {
+          "code": 39,
+          "total": 9
+        },
+        {
+          "code": 40,
+          "total": 3
+        },
+        {
+          "code": 41,
+          "total": 1
+        },
+        {
+          "code": 42,
+          "total": 1
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Classic_Slip_On_Breast_Cancer-Breast_Cancer_nude_check_true_white-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Classic_Slip_On_Breast_Cancer-Breast_Cancer_nude_check_true_white-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Classic_Slip_On_Breast_Cancer-Breast_Cancer_nude_check_true_white-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Classic_Slip_On_Breast_Cancer-Breast_Cancer_nude_check_true_white-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Classic_Slip_On_Breast_Cancer-Breast_Cancer_nude_check_true_white-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Classic_Slip_On_Breast_Cancer-Breast_Cancer_nude_check_true_white-6.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "NIKE WMNS NIKE AIR MAX 90 SLIDE",
+      "category": "Women, Sandals, Flip Flop ",
+      "brand": "NIKE",
+      "rating": [],
+      "colour": "WHITE/SMOKE GREY-ROSE-LT SMOKE GREY",
+      "description": "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
+      "price": 879650,
+      "stock": [
+        {
+          "code": 38,
+          "total": 15
+        },
+        {
+          "code": 39,
+          "total": 19
+        },
+        {
+          "code": 40,
+          "total": 13
+        },
+        {
+          "code": 41,
+          "total": 0
+        },
+        {
+          "code": 42,
+          "total": 0
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-6.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "PLEASURES UTOPIA CROCS BY PLEASURES",
+      "category": "Man, Sandals, Flip Flop ",
+      "brand": "PLEASURES",
+      "colour": "BLACK",
+      "rating": [],
+      "description": "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
+      "price": 543000,
+      "stock": [
+        {
+          "code": 38,
+          "total": 11
+        },
+        {
+          "code": 39,
+          "total": 9
+        },
+        {
+          "code": 40,
+          "total": 7
+        },
+        {
+          "code": 41,
+          "total": 1
+        },
+        {
+          "code": 42,
+          "total": 2
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-6.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "PUMA CLYDE HARDWOOD RETRO",
+      "category": "Man, Sport, Basketball",
+      "brand": "PUMA",
+      "rating": [],
+      "colour": "Puma White-Orange Pop",
+      "description": "Der PUMA CLYDE HARDWOOD ehrt Walt \"Clyde\" Frazier, der mit dem originalen Puma Clyde in den 70ern zur Stilikone wurde. Auch der Clyde Hardwood verbindet wieder Performance mit Lifestyle und überzeugt damit auf ganzer Linie. Highlight hierbei ist die Dämpfung mittels ProFoam und die CMEVA Midsole. TPU im Fersenberiech verstärkt auch nochmal den Tragekomfort. Clyde approves this!",
+      "price": 2314870,
+      "stock": [
+        {
+          "code": 38,
+          "total": 6
+        },
+        {
+          "code": 39,
+          "total": 1
+        },
+        {
+          "code": 40,
+          "total": 2
+        },
+        {
+          "code": 41,
+          "total": 0
+        },
+        {
+          "code": 42,
+          "total": 1
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-6.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "ADIDAS PERFORMANCE MARQUEE MID - VEGAS",
+      "category": "Man, Sport, Basketball",
+      "brand": "ADIDAS",
+      "rating": [],
+      "colour": "legend ink/ftwr white/flash orange",
+      "description": "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
+      "price": 1345650,
+      "stock": [
+        {
+          "code": 38,
+          "total": 7
+        },
+        {
+          "code": 39,
+          "total": 9
+        },
+        {
+          "code": 40,
+          "total": 10
+        },
+        {
+          "code": 41,
+          "total": 2
+        },
+        {
+          "code": 42,
+          "total": 0
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-6.jpg"
+      ]
+    }
+  ],
+  "slider": [
+    {
+      "images": "https://images.unsplash.com/photo-1544441893-675973e31985?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+      "title": "Fit your style"
+    },
+    {
+      "images": "https://images.unsplash.com/photo-1505784045224-1247b2b29cf3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+      "title": "Strength your passion and feel"
+    },
+    {
+      "images": "https://images.unsplash.com/photo-1515355758951-b4b20ba84c1e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "title": "Fall in love at first glance"
+    },
+    {
+      "images": "https://images.unsplash.com/photo-1543322748-33df6d3db806?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80",
+      "title": "Express your style with us"
+    },
+    {
+      "images": "https://images.unsplash.com/photo-1575891942688-395c4fd38fb8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1367&q=80",
+      "title": "Made your day with smile"
+    },
+    {
+      "images": "https://images.unsplash.com/photo-1579199265916-436a773ce30b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "title": "Find what your love"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "role": "admin",
+      "email": "admin@shoes.com",
+      "cart": []
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "user",
+      "role": "user",
+      "email": "user@gmail.com",
+      "cart": [
+        {
+          "id": 3,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-1.jpg",
+          "name": "NIKE KYRIE 6",
+          "brand": "NIKE",
+          "color": "WHITE/BLUE FURY-OPTI YELLOW-DIGITAL PINK",
+          "size": 41,
+          "qty": 2,
+          "price": 3560000
+        }
+      ]
+    },
+    {
+      "username": "Fesyah7",
+      "password": "!Fesyah7",
+      "role": "user",
+      "email": "fesyahbhaskara17@gmail.com",
+      "cart": [
+        {
+          "id": 2,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+          "name": "JORDAN WESTBROOK ONE TAKE",
+          "brand": "JORDAN",
+          "color": "WHITE/WHITE-BLACK-RAGE GREEN",
+          "size": 40,
+          "qty": 3,
+          "price": 4500000
+        },
+        {
+          "id": 12,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-1.jpg",
+          "name": "ADIDAS PERFORMANCE MARQUEE MID - VEGAS",
+          "brand": "ADIDAS",
+          "color": "legend ink/ftwr white/flash orange",
+          "size": 40,
+          "qty": 2,
+          "price": 2691300
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "transaction_history": [
+    {
+      "userID": 2,
+      "username": "user",
+      "date": "2/7/2020 10.30.43",
+      "totalQty": 4,
+      "totalPrice": 9809740,
+      "products": [
+        {
+          "id": 1,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-1.jpg",
+          "name": "NIKE AIR ZOOM-TYPE",
+          "brand": "NIKE",
+          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
+          "size": 38,
+          "qty": 1,
+          "price": 2500000
+        },
+        {
+          "id": 11,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-1.jpg",
+          "name": "PUMA CLYDE HARDWOOD RETRO",
+          "brand": "PUMA",
+          "color": "Puma White-Orange Pop",
+          "size": 39,
+          "qty": 2,
+          "price": 4629740
+        },
+        {
+          "id": 4,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-1.jpg",
+          "name": "JORDAN AIR JORDAN 14 RETRO",
+          "brand": "JORDAN",
+          "color": "BLACK/GYM RED-WHITE-OFF WHITE",
+          "size": 39,
+          "qty": 1,
+          "price": 2680000
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userID": 4,
+      "username": "Fesyah7",
+      "date": "7/5/2020, 10:14:58 PM",
+      "totalQty": 5,
+      "totalPrice": 8900000,
+      "products": [
+        {
+          "id": 3,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-1.jpg",
+          "name": "NIKE KYRIE 6",
+          "brand": "NIKE",
+          "color": "WHITE/BLUE FURY-OPTI YELLOW-DIGITAL PINK",
+          "size": 41,
+          "qty": 5,
+          "price": 8900000
+        }
+      ],
+      "id": 6
+    },
+    {
+      "userID": 4,
+      "username": "Fesyah7",
+      "date": "7/6/2020, 12:02:40 AM",
+      "totalQty": 6,
+      "totalPrice": 12540000,
+      "products": [
+        {
+          "id": 4,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-1.jpg",
+          "name": "JORDAN AIR JORDAN 14 RETRO",
+          "brand": "JORDAN",
+          "color": "BLACK/GYM RED-WHITE-OFF WHITE",
+          "size": 40,
+          "qty": 3,
+          "price": 8040000
+        },
+        {
+          "id": 2,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+          "name": "JORDAN WESTBROOK ONE TAKE",
+          "brand": "JORDAN",
+          "color": "WHITE/WHITE-BLACK-RAGE GREEN",
+          "size": 39,
+          "qty": 3,
+          "price": 4500000
+        }
+      ],
+      "id": 7
+    },
+    {
+      "userID": 4,
+      "username": "Fesyah7",
+      "date": "7/6/2020, 12:31:47 AM",
+      "totalQty": 5,
+      "totalPrice": 12669740,
+      "products": [
+        {
+          "id": 11,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/puma-Clyde_Hardwood_Retro-Puma_White_Orange_Pop-1.jpg",
+          "name": "PUMA CLYDE HARDWOOD RETRO",
+          "brand": "PUMA",
+          "color": "Puma White-Orange Pop",
+          "size": 40,
+          "qty": 2,
+          "price": 4629740
+        },
+        {
+          "id": 4,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-1.jpg",
+          "name": "JORDAN AIR JORDAN 14 RETRO",
+          "brand": "JORDAN",
+          "color": "BLACK/GYM RED-WHITE-OFF WHITE",
+          "size": 39,
+          "qty": 3,
+          "price": 8040000
+        }
+      ],
+      "id": 8
+    },
+    {
+      "userID": 2,
+      "username": "user",
+      "date": "7/6/2020, 4:20:50 PM",
+      "totalQty": 2,
+      "totalPrice": 1759300,
+      "products": [
+        {
+          "id": 9,
+          "images": "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-1.jpg",
+          "name": "NIKE WMNS NIKE AIR MAX 90 SLIDE",
+          "brand": "NIKE",
+          "color": "WHITE/SMOKE GREY-ROSE-LT SMOKE GREY",
+          "size": 39,
+          "qty": 2,
+          "price": 1759300
+        }
+      ],
+      "id": 9
+    }
+  ]
+}
